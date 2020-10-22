@@ -2,5 +2,4 @@
 #admi
 
 =======
-#barbad
-#hacktoberfest
+#barbabad
